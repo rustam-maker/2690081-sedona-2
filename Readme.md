@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Рустам Абдуллаев](https://up.htmlacademy.ru/htmlcss-individual/2/user/2690081).
-* Наставник: {}()
+* Наставник: []()
+* Сайт: [Мой проект Седона](https://rustam-maker.github.io/2690081-sedona-2/)
 
 ---
 
